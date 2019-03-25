@@ -1,10 +1,10 @@
 The memory minigame is a java applet where user has to remember a sequence of coloured tiles and press those tiles in the same order.
 
 
-The main screen of our project.
+The main screen of our project.                                    
 ![Screenshot](https://github.com/Deku789/memory-minigame/blob/master/Screenshots/Screenshot1.png)
 
-The main menu screen
+The main menu screen                                
 ![Screenshot](https://github.com/Deku789/memory-minigame/blob/master/Screenshots/Screenshot2.png)
 
 After we press the Play button a new screen opens.
